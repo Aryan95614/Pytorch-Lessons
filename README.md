@@ -1,3 +1,3 @@
 # Pytorch
 
-These books for now are my documentation for my upcoming projects. 
+Looking to rebuild and reorient these profiles. 
